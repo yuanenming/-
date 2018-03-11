@@ -1,6 +1,8 @@
 # align-free-phylogentic-tree
 Phylogenetic Tree Construction using Alignment Free methods.
 
+This is a coursework of algorithm and data structure.
+
 A simple framework written in C++ language.
 
 Compilation: Under Linux environment, you just need to run
